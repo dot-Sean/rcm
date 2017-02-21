@@ -76,3 +76,46 @@ If you intend to write a new test:
 4. When in doubt, use existing tests as a guide.
 
 [cram]: https://bitheap.org/cram/
+
+Governance
+==========
+
+Your interaction with this project can be divided into three sections: you as a
+contributor, you as a committer, and how to become a committer.
+
+Contributor
+-----------
+
+This is a slow-moving project. Our goal is to provide a yearly release.
+
+As a contributor, you can expect us to add a GitHub label to your pull request
+or issue within two weeks. This indicates that we have seen your contribution
+and quickly triaged it. If we believe that your feature request will not be
+merged, we will tell you as much during the triage step.
+
+Bug reports, either as issues or as pull requests, get our priority. We
+consider documentation bugs to be as important as code bugs.
+
+Feature contributions get lower priority. We will evaluate the patch carefully
+for maintainability and to ensure the test coverage is high.
+
+Feature requests without a patch will be closed. We want to provide a
+description of how to write your patch while closing the request, though we
+cannot guarantee this.
+
+You are expected to adhere to our [code of conduct].
+
+Committer
+---------
+
+As a committer, you can merge at any time. We encourage you to have the code
+reviewed by `@thoughtbot/shell`.
+
+You are expected to adhere to our [code of conduct].
+
+Promotion
+---------
+
+All current thoughtbot employees are committers to rcm.
+
+Contributors with two merged patches are weclome to request committer access.
