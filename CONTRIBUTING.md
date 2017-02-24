@@ -96,11 +96,12 @@ merged, we will tell you as much during the triage step.
 Bug reports, either as issues or as pull requests, get our priority. We
 consider documentation bugs to be as important as code bugs.
 
-Feature contributions get lower priority. We will evaluate the patch carefully
-for maintainability and to ensure the test coverage is high.
+Feature contributions (that is, a pull request that add a new feature) get
+lower priority. We will evaluate the patch carefully for maintainability and to
+ensure the test coverage is high.
 
-Feature requests without a patch will be closed. We want to provide a
-description of how to write your patch while closing the request, though we
+Feature requests without a patch will be closed. We will try to provide a
+description of how to write your patch while we close the request, though we
 cannot guarantee this.
 
 You are expected to adhere to our [code of conduct].
@@ -109,7 +110,8 @@ Committer
 ---------
 
 As a committer, you can merge at any time. We encourage you to have the code
-reviewed by `@thoughtbot/shell`.
+reviewed by someone beforehand. Those in the thoughtbot team can ping the
+`@thoughtbot/shell` group.
 
 You are expected to adhere to our [code of conduct].
 
